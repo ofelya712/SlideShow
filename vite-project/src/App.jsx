@@ -24,7 +24,7 @@ function App(props) {
 
   return (
     <div >
-      <h1>Hello React.</h1>
+    
       <h2>Start editing to see some magic happen!</h2>
       <img id="main" src={photos[index].url} />
       <div>
